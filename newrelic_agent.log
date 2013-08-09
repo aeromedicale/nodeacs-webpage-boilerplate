@@ -1,0 +1,12 @@
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14282,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-08-09T04:56:13.771Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14282,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/395857/applications/1967633","time":"2013-08-09T04:56:14.400Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14282,"component":"connection","level":30,"msg":"Connected to collector-4.newrelic.com:80 with agent run ID 601870834.","time":"2013-08-09T04:56:14.400Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14297,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-08-09T05:00:48.561Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14297,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/395857/applications/1967633","time":"2013-08-09T05:00:48.971Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14297,"component":"connection","level":30,"msg":"Connected to collector-4.newrelic.com:80 with agent run ID 601874854.","time":"2013-08-09T05:00:48.973Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14308,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-08-09T05:01:28.558Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14308,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/395857/applications/1967633","time":"2013-08-09T05:01:29.067Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14308,"component":"connection","level":30,"msg":"Connected to collector-4.newrelic.com:80 with agent run ID 601875362.","time":"2013-08-09T05:01:29.067Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14318,"level":30,"msg":"Starting New Relic Node.js instrumentation.","time":"2013-08-09T05:01:46.356Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14318,"component":"data_sender","level":30,"msg":"Reporting to: https://rpm.newrelic.com/accounts/395857/applications/1967633","time":"2013-08-09T05:01:46.765Z","v":0}
+{"name":"newrelic","hostname":"Peter-Lees-iMac.local","pid":14318,"component":"connection","level":30,"msg":"Connected to collector-4.newrelic.com:80 with agent run ID 601875552.","time":"2013-08-09T05:01:46.765Z","v":0}

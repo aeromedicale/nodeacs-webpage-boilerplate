@@ -19,6 +19,8 @@
   },
   "preferGlobal": false,
   "dependencies": {
+    "express-partials": "*",
+    "newrelic": "*"
   },
   "license":"",
   "private": true

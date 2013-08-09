@@ -1,7 +1,9 @@
 {
   "routes":
   [
-    { "path": "/", "callback": "application#index" }
+    { "path": "/", "callback": "application#index" },
+    { "path": "/about", "callback": "application#about" },
+    { "path": "/test", "callback": "application#test" }
   ],
   "filters":
   [
